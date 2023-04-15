@@ -14,3 +14,5 @@ while True:
     if cv2.WaitKey(1)==27:
         break
 cap.release()
+
+#sdfkajsgh apsfhg uhg sugh sadiupgahs fug
