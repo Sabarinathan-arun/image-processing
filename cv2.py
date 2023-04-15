@@ -15,6 +15,5 @@ while True:
         break
 cap.release()
 
-#sdfkajsgh apsfhg uhg sugh sadiupgahs fug
-lksadfj d doif wdfo 
+#sdfkajsgh apsfhg uhg sugh sadiupgahs fug gcfdd 6 ufcfyuf  
 
