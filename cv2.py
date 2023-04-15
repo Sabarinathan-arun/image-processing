@@ -16,3 +16,5 @@ while True:
 cap.release()
 
 #sdfkajsgh apsfhg uhg sugh sadiupgahs fug
+lksadfj d doif wdfo 
+
